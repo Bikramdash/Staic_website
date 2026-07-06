@@ -28,16 +28,6 @@ This project demonstrates how to host a static website using Amazon S3 and deliv
 6. Waited for the CloudFront distribution to deploy.
 7. Verified that the website was accessible through the CloudFront URL.
 
-## Project Structure
-
-```text
-.
-├── index.html
-├── css/
-├── js/
-├── images/
-└── README.md
-```
 
 ## Outcome
 
